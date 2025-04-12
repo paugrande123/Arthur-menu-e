@@ -1,6 +1,6 @@
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 local whitelist = {
-    [8112876212] = true,  -- Substitua pelo UserId do "DragonFire20105991"
+    [8112890158] = true,  -- Substitua pelo UserId do "DragonFire20105991"
 
 }
 
